@@ -1,0 +1,5 @@
+{
+  "name": "Copy of BAIRU - API & Domain (Phase 1)",
+  "description": "Backend and Domain architecture for the BAIRU project, featuring localized directory, classifieds, and events with SEO-optimized slugs and Supabase integration.",
+  "requestFramePermissions": []
+}
